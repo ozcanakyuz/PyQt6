@@ -1,3 +1,5 @@
+#PyQt6
+
 import sys
 from PyQt6 import QtWidgets
 from PyQt6.QtWidgets import QApplication, QMainWindow, QToolTip
